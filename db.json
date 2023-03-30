@@ -1,0 +1,20 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+    "images": [
+        {
+            "id": 1,
+             "location": "https://lh3.googleusercontent.com/pw/AMWts8DtJwAJBcOtWLfwpi62wgLsWLFQlwM8yOt8RiUNFAlzaiIB97-m5UzZoFoGaSnT2Peq0E9MEUzP7WVhFQowpxkEnBwdXDxjiT3diA-EPdN-tZGRdY0IpHJ-pMmjWdjFif-kovJNeMq8kqqyIoEVqhi6bQ=w1280-h720-s-no",
+            "data": 
+            {
+              "file_name": "Yuno Gasai",
+              "source": "google"
+            }
+        }
+      ]
+  }
